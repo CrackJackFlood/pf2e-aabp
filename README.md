@@ -62,12 +62,7 @@ Feel free to provide any feedback, suggestions, or questions. You can message me
 
 This is a houserule variant of Automatic Bonus Progression and Automatic Rune Progression. This is the full version of AABP it follows the ABP scaling and adds spell attack scaling based on gate attenuators.
 
-	+1	+2	+3
-Weapon Attack Bonus	L2	L10	L16
-Magic Attack Bonus	L3	L11	L17
-Damage Dice Bonus	L4	L12	L19
-Armor Class Bonus	L5	L11	L18
-Saving Throw Bonus	L8	L14	L20
+![image](https://github.com/CrackJackFlood/pf2e-aabp/assets/49882452/c095e927-f2a3-4f23-92ef-9bccdf4727f4)
 
 The table shows the bonus progression along with level you get each bonus. 
 
@@ -77,26 +72,17 @@ This replaces Armor, Resilient, Weapon and Striking runes. It also increases spe
 
 This is a houserule variant of Automatic Bonus Progression and Automatic Rune Progression. This version is the delayed version intended for games which still wish to somewhat use items with fundemental runes it delays the scaling across the board by 1 level.
 
-	+1	+2	+3
-Weapon Attack Bonus	L3	L11	L17
-Magic Attack Bonus	L4	L12	L18
-Damage Dice Bonus	L5	L13	L20
-Armor Class Bonus	L6	L12	L19
-Saving Throw Bonus	L9	L15	L20
+
 
 The table shows the bonus progression along with level you get each bonus. 
 
 This replaces Armor, Resilient, Weapon and Striking runes. It also increases spell attack rolls.
 
-
+![image](https://github.com/CrackJackFlood/pf2e-aabp/assets/49882452/824def0f-0f18-4314-9099-6384a6fe7e63)
 
 This is a houserule variant of Automatic Bonus Progression and Automatic Rune Progression. This version is the closest to both ABP and ARP it does not include increase to spell attacks.
 
-	+1	+2	+3
-Weapon Attack Bonus	L2	L10	L16
-Damage Dice Bonus	L4	L12	L19
-Armor Class Bonus	L5	L11	L18
-Saving Throw Bonus	L8	L14	L20
+![image](https://github.com/CrackJackFlood/pf2e-aabp/assets/49882452/7b36ca04-23d7-4769-91b2-96ac6854373b)
 
 The table shows the bonus progression along with level you get each bonus. 
 
