@@ -1,6 +1,8 @@
 # pf2e-aabp
  A place to give feedback and report issues the AABP effect found in the workbench module.
 
+---
+
 Following is copy and pasted from the feat and effects.
 
 This simply exists as an easy way to reapply the effect and a explainer, advice and tips on how to use this Alternative to Automatic Bonus Progression got any feedback, issues or tips please post them here.
@@ -25,15 +27,15 @@ When placing the Another Alternative Bonus Progression feat onto a character you
 
 
 
-@UUID[Compendium.CrackSharedCompendia.cracks-features.Item.BRZ7Hj19owuzLLvJ]{Effect: AABP - Full}
+{Effect: AABP - Full}
 
 
 
-@UUID[Compendium.CrackSharedCompendia.cracks-features.Item.XOFVsumZ0MYGzFwo]{Effect: AABP - Full - Delayed}
+{Effect: AABP - Full - Delayed}
 
 
 
-@UUID[Compendium.CrackSharedCompendia.cracks-features.Item.NerrZWdyTVFwARG0]{Effect: AABP - No magic}
+{Effect: AABP - No magic}
 
 
 
@@ -56,7 +58,7 @@ Customization:
 
 You can easily and freely modify the RE's on the effects to tune them to your liking. 
 
-
+---
 
 Feel free to provide any feedback, suggestions, or questions. You can message me on discord my handle is - crackjackflood
 
@@ -68,17 +70,17 @@ The table shows the bonus progression along with level you get each bonus. 
 
 This replaces Armor, Resilient, Weapon and Striking runes. It also increases spell attack rolls.
 
-
+---
 
 This is a houserule variant of Automatic Bonus Progression and Automatic Rune Progression. This version is the delayed version intended for games which still wish to somewhat use items with fundemental runes it delays the scaling across the board by 1 level.
 
-
+![image](https://github.com/CrackJackFlood/pf2e-aabp/assets/49882452/824def0f-0f18-4314-9099-6384a6fe7e63)
 
 The table shows the bonus progression along with level you get each bonus. 
 
 This replaces Armor, Resilient, Weapon and Striking runes. It also increases spell attack rolls.
 
-![image](https://github.com/CrackJackFlood/pf2e-aabp/assets/49882452/824def0f-0f18-4314-9099-6384a6fe7e63)
+---
 
 This is a houserule variant of Automatic Bonus Progression and Automatic Rune Progression. This version is the closest to both ABP and ARP it does not include increase to spell attacks.
 
