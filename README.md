@@ -39,8 +39,9 @@ When placing the Another Alternative Bonus Progression feat onto a character you
 
 
 
-You can click the above effects to see the differences displayed in their descriptions, but essentially, they are the same, except that one grants spell attack scaling, which is a common addition to many people's ABP implementations. You can also use the above effects by dragging them onto any character if you accidentally delete the effects.
+You can click the above effects to see the differences displayed in their descriptions, but essentially, they are the same, except that for the one that does not give spell attack scaling, which is a common addition to many people's ABP implementations. You can also use the above effects by dragging them onto any character if you accidentally delete the effects.
 
+Some notable things, bombs are completely untouched, deadly trait scales.
 
 
 ## Implementation Notes:
